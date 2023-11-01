@@ -27,8 +27,8 @@ const Projects = () => {
     >
       <h2 className="h2 text-accent mb-[10px]">My Projects</h2>
       <p className="mb-[60px] text-center max-w-[90%]">
-        The Proof what i have done so far and will continue to emerge in a way
-        to learn something new every time
+        The Proof what I have done so far and will continue to emerge in a way
+        to learn something new every time.
       </p>
       <div className=" flex gap-10 flex-wrap justify-center items-center">
         {data.map((data, index) => {
